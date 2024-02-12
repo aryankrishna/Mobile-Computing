@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA calculator</string>
+    <string name="course_1" >Course_1</string>
+    <string name="course_2" >Course_2</string>
+    <string name="course_3" >Course_3</string>
+    <string name="course_4" >Course_4</string>
+    <string name="course_5" >Course_5</string>
+    <string name="compute_gpa" >Compute_gpa</string>
+    <string name="gpa" >GPA</string>
+    <string name="_0_0" />
+
+
+</resources>
